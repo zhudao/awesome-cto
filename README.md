@@ -354,6 +354,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
  * [Engineering Managers Slack](https://engmanagers.github.io)
  * [CTO Framework](https://ctoframework.com)
+ * [CTO Insights Podcast](https://ctoinsights.adevait.com/)
 
 
 ## Other
