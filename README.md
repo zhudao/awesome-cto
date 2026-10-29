@@ -94,7 +94,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [The Power of Performance Reviews](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
  * [Performance reviews are coming up](https://www.linkedin.com/posts/gergelyorosz_performancereviews-softwarengineering-career-activity-7008079544171528192-D2fF/) - Gergely Orosz
  * [Principles of Engineering Management](https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b)
- * [Compensation Best Practices](https://www.payscale.com/cbpr)
  * [Draw The Owl and Other Company Values You Didn’t Know You Should Have](https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/)
  * [A MANAGER’S BILL OF RESPONSIBILITIES (AND RIGHTS)](https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/)
  * [After Being A Manager, Can I Be Happy As A Cog?](https://charity.wtf/2019/11/23/questionable-advice-after-being-a-manager-can-i-be-happy-as-a-cog/)
@@ -247,7 +246,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
  * [What are the things startups have to get right?](https://www.quora.com/What-are-the-things-startups-have-to-get-right) *(Quora)*
  * [85 Things I learned being a CEO](https://hackernoon.com/85-things-i-learned-being-a-ceo-4c25fc1c7b99)
- * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
+ * [What’s the Second Job of a Startup CEO?](https://web.archive.org/web/20200614150106/https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
  * [Things I will tell my kids if they become entrepreneurs](https://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
  * [As an employee of a startup, how do you know when to quit?](https://www.quora.com/As-an-employee-of-a-startup-how-do-you-know-when-to-quit) *(Quora)*
